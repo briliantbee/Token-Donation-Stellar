@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\contracts",
+    "\\contracts\\token",
+    "\\contracts\\token\\src"
+  ],
+  "SelectedNode": "\\contracts\\token\\src\\test.rs",
+  "PreviewInSolutionExplorer": false
+}
