@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Soroban Project
 
 ## Project Structure
