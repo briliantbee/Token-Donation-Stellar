@@ -21,4 +21,3 @@ This repository uses the recommended structure for a Soroban project:
 - Frontend libraries can be added to the top-level directory as well. If you initialized this project with a frontend template via `--frontend-template` you will have those files already included.
 =======
 # Token-Donation-App
->>>>>>> 30f815a46e57a5d4905cf064f8bd58ac864332fd
